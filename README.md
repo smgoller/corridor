@@ -1,4 +1,4 @@
-# Corridor
+# Corridor [![Build Status](https://travis-ci.org/smgoller/corridor.svg?branch=master)](https://travis-ci.org/smgoller/corridor)
 
 Corridor is an unofficial ruby API to concourse ci instances. It is not affiliated in any way with the concourse development team.
 
